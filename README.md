@@ -1,7 +1,7 @@
 
 # Fivem Uptime Status
 
-This task was created to monitor the status of Fivem servers and is a necessary project because it can automatically notify Fivem Servers in multiple countries.
+This task was created to monitor the status of Fivem servers and is a necessary project because it can automatically notify Fivem Servers in multiple Server.
 
 
 
