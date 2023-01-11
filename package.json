@@ -1,0 +1,22 @@
+{
+  "name": "fivem-uptime",
+  "version": "1.0.0",
+  "description": "The Uptime Fivem By Serresz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serresz/FIvem-Uptime.git"
+  },
+  "author": "! serresz#3638",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serresz/FIvem-Uptime/issues"
+  },
+  "homepage": "https://github.com/Serresz/FIvem-Uptime#readme",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
