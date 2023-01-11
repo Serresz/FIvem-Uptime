@@ -18,7 +18,7 @@ This task was created to monitor the status of Fivem servers and is a necessary 
 Install axios with npm
 
 ```bash
-  npm install axios
+npm install axios
 ```
     
 ## Run
